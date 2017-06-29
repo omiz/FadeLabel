@@ -1,5 +1,8 @@
 # FadeLabel
 
+## Screenshot
+![demo](/fade_label.gif?raw=true "demo")
+
 ## Requirements
 
 - iOS 8.0+
