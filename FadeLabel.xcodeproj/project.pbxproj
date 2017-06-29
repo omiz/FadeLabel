@@ -46,6 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E02ADEB81F04F56800D4ADF3 /* fade_label.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fade_label.gif; sourceTree = "<group>"; };
 		E06A27BE1F04EE7000D2FCC6 /* FadeLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FadeLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E06A27C11F04EE7000D2FCC6 /* FadeLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FadeLabel.h; sourceTree = "<group>"; };
 		E06A27C21F04EE7000D2FCC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -108,9 +109,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E02ADEB71F04F55800D4ADF3 /* Artwork */ = {
+			isa = PBXGroup;
+			children = (
+				E02ADEB81F04F56800D4ADF3 /* fade_label.gif */,
+			);
+			name = Artwork;
+			sourceTree = "<group>";
+		};
 		E06A27B41F04EE6F00D2FCC6 = {
 			isa = PBXGroup;
 			children = (
+				E02ADEB71F04F55800D4ADF3 /* Artwork */,
 				E06A27C01F04EE7000D2FCC6 /* FadeLabel */,
 				E06A27CB1F04EE7000D2FCC6 /* FadeLabelTests */,
 				E06A27E01F04EF4B00D2FCC6 /* FadeExample */,
@@ -754,6 +764,7 @@
 				E06A27D41F04EE7000D2FCC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E06A27D51F04EE7000D2FCC6 /* Build configuration list for PBXNativeTarget "FadeLabelTests" */ = {
 			isa = XCConfigurationList;
@@ -762,6 +773,7 @@
 				E06A27D71F04EE7000D2FCC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E06A28041F04EF4B00D2FCC6 /* Build configuration list for PBXNativeTarget "FadeExample" */ = {
 			isa = XCConfigurationList;
@@ -770,6 +782,7 @@
 				E06A28061F04EF4B00D2FCC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E06A28071F04EF4B00D2FCC6 /* Build configuration list for PBXNativeTarget "FadeExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -778,6 +791,7 @@
 				E06A28091F04EF4B00D2FCC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E06A280A1F04EF4B00D2FCC6 /* Build configuration list for PBXNativeTarget "FadeExampleUITests" */ = {
 			isa = XCConfigurationList;
@@ -786,6 +800,7 @@
 				E06A280C1F04EF4B00D2FCC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
