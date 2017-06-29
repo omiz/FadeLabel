@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FadeExample.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>FadeLabel.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E06A27BD1F04EE7000D2FCC6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E06A27C61F04EE7000D2FCC6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E06A27DE1F04EF4B00D2FCC6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E06A27F11F04EF4B00D2FCC6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E06A27FC1F04EF4B00D2FCC6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
